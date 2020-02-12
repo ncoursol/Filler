@@ -1,5 +1,3 @@
--- Projet de l'école 42 --
-
 # FILLER :
 
 Résumé: Créez votre programme joueur pour affronter d’autres étudiants sur le célèbre
