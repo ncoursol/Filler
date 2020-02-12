@@ -11,4 +11,14 @@ qu’une pièce ne peut plus être placée. Petit projet ludique !
 Pour lancer l'interface il faut mettre un ‘|’ a la fin de la commande de la vm suivi de l'executable display.
 De cette façon : “./filler_vm -f maps/mapXX -p1 players/X.filler -p2 players/X.filler | ../ncoursol.display”
 
-L'executable de la vm, des maps ainsi que des joueurs de tests sont disponible dans le dossier ressources...
+L'executable de la vm, des maps ainsi que des joueurs de tests sont disponible dans le dossier ressources (certains joueurs peuvent ne pas bien marcher)...
+
+(edit.) : depuis la maj Mojave, Opengl est obsolete, si il y a des warning lors de la compilation, rien de grave lancer le programme comme d'habitude.
+
+avec un visu :
+![image1](https://github.com/ncoursol/Filler/blob/master/screenshot/image2.png)
+
+![image1](https://github.com/ncoursol/Filler/blob/master/screenshot/image3.png)
+
+je gagne à tout les coups...
+![image1](https://github.com/ncoursol/Filler/blob/master/screenshot/image1.png)
